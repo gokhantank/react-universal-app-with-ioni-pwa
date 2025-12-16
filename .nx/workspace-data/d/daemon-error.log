@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.293Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.293Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.295Z - Established a connection. Number of open connections: 2
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.295Z - Closed a connection. Number of open connections: 1
+Time for 'plugin worker 29221 code loading' 7.355454999999992
+Time for 'plugin worker 29224 code loading' 5.854869999999998
+Time for 'plugin worker 29223 code loading' 6.360607000000002
+Time for 'plugin worker 29222 code loading' 6.075501000000003
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.123Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/js' 1007.6296129999998ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.166Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/package-json' 1049.488822ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.207Z - Time taken for 'loadDefaultNxPlugins' 1091.650519ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.248Z - Closed a connection. Number of open connections: 0
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (sources)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (outputs)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.285Z - Started listening on: /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/305d1c55f0c3ab0c160c/d.sock
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.291Z - [WATCHER]: Subscribed to changes within: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (native)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.293Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+
+
+
+More information: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/.nx/workspace-data/d/daemon.log

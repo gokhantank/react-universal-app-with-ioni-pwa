@@ -1,0 +1,152 @@
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:07.015Z - Started listening on: /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/2e61540abfc9869e3031/d.sock
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:07.019Z - [WATCHER]: Subscribed to changes within: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (native)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:07.020Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.127Z - Established a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.128Z - Established a connection. Number of open connections: 2
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.130Z - Closed a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.131Z - Received raw message of length 32
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.131Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.132Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.132Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.132Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.133Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.133Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 1.
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.163Z - Established a connection. Number of open connections: 2
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.164Z - Closed a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.174Z - Closed a connection. Number of open connections: 0
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.208Z - Established a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.210Z - Closed a connection. Number of open connections: 0
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.211Z - Established a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.292Z - Received raw message of length 32
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.293Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.293Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.295Z - Established a connection. Number of open connections: 2
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:08.295Z - Closed a connection. Number of open connections: 1
+Time for 'plugin worker 29221 code loading' 7.355454999999992
+Time for 'plugin worker 29224 code loading' 5.854869999999998
+Time for 'plugin worker 29223 code loading' 6.360607000000002
+Time for 'plugin worker 29222 code loading' 6.075501000000003
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.123Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/js' 1007.6296129999998ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.166Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/package-json' 1049.488822ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.207Z - Time taken for 'loadDefaultNxPlugins' 1091.650519ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.248Z - Closed a connection. Number of open connections: 0
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (sources)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (outputs)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.249Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.285Z - Started listening on: /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/305d1c55f0c3ab0c160c/d.sock
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.291Z - [WATCHER]: Subscribed to changes within: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (native)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.293Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.723Z - [WATCHER]: Processing file changes in outputs
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.723Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (sources)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.723Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (outputs)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:09.724Z - Server stopped because: "LOCK_FILES_CHANGED"
+Time for 'plugin worker 29241 code loading' 10.742437999999993
+Time for 'plugin worker 29244 code loading' 8.259356999999994
+Time for 'plugin worker 29242 code loading' 12.824025000000006
+Time for 'plugin worker 29243 code loading' 9.195270000000022
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.057Z - Started listening on: /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/8d25474ea00424610651/d.sock
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.061Z - [WATCHER]: Subscribed to changes within: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (native)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.063Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.454Z - Established a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.455Z - Established a connection. Number of open connections: 2
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.457Z - Closed a connection. Number of open connections: 1
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.461Z - Received raw message of length 451
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.461Z - Received json message of type MULTI_GLOB
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.471Z - Serializing response for MULTI_GLOB message in json mode
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.471Z - Responding to MULTI_GLOB message
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.471Z - [REQUEST]: Responding to the client. handleMultiGlob
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.472Z - Done responding to the client handleMultiGlob
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:12.473Z - Handled json message MULTI_GLOB. Handling time: 9. Response time: 2.
+Time for 'plugin worker 29307 code loading' 6.492233999999996
+Time for 'plugin worker 29309 code loading' 3.4906709999999634
+Time for 'plugin worker 29308 code loading' 2.8501529999999775
+Time for 'plugin worker 29306 code loading' 10.900817999999958
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.090Z - Received raw message of length 92
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.090Z - Received json message of type GET_NX_WORKSPACE_FILES
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.121Z - Serializing response for GET_NX_WORKSPACE_FILES message in json mode
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.121Z - Responding to GET_NX_WORKSPACE_FILES message
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.121Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.121Z - Done responding to the client handleNxWorkspaceFiles
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.121Z - Handled json message GET_NX_WORKSPACE_FILES. Handling time: 30. Response time: 0.
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.259Z - Received raw message of length 32
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.259Z - Received json message of type GET_CONTEXT_FILE_DATA
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.260Z - Serializing response for GET_CONTEXT_FILE_DATA message in json mode
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.260Z - Responding to GET_CONTEXT_FILE_DATA message
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.260Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.260Z - Done responding to the client handleContextFileData
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.260Z - Handled json message GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 0.
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.261Z - Closed a connection. Number of open connections: 0
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.669Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/package-json' 1221.247342ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.688Z - Time taken for 'Load Nx Plugin: /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/node_modules/nx/src/plugins/project-json/build-nodes/project-json' 1240.161475ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.700Z - Time taken for 'loadDefaultNxPlugins' 1253.657169ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.988Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.988Z - [REQUEST]: 
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:13.988Z - [REQUEST]: 
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:14.001Z - Time taken for 'loadSpecifiedNxPlugins' 1539.246405ms
+Time for 'nx/core/package-json:createNodes' 0.9663630000000012
+Time for 'nx/core/project-json:createNodes' 0.6920780000000377
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 10.195389999999861
+Time for '@nx/eslint/plugin:createNodes' 356.47234500000013
+Time for 'workspace context init' 4.276849999999968
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:14.395Z - Time taken for 'build-project-configs' 373.4306550000001ms
+Time for 'build typescript dependencies' 19.496494999999868
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:14.455Z - Time taken for 'total execution time for createProjectGraph()' 65.78958499999999ms
+The plugin worker is exiting as it was not connected to within 5 seconds.
+The plugin worker is exiting as it was not connected to within 5 seconds.
+The plugin worker is exiting as it was not connected to within 5 seconds.
+The plugin worker is exiting as it was not connected to within 5 seconds.
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.856Z - [WATCHER]: .npmrc was created or restored
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.856Z - [WATCHER]: Processing file changes in outputs
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.959Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.960Z - [REQUEST]: .npmrc
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.961Z - [REQUEST]: 
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:20.975Z - Time taken for 'hash changed files from watcher' 1.14810099999886ms
+Time for 'nx/core/package-json:createNodes' 0.6364380000013625
+Time for 'nx/core/project-json:createNodes' 0.9995899999994435
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 9.052047999999559
+Time for '@nx/eslint/plugin:createNodes' 31.544144999999844
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.026Z - Time taken for 'build-project-configs' 46.65789399999994ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.040Z - [WATCHER]: .npmrc was created or restored
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.040Z - [WATCHER]: Processing file changes in outputs
+Time for 'build typescript dependencies' 0.16162999999869498
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.051Z - Time taken for 'total execution time for createProjectGraph()' 30.723995000000286ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.141Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.141Z - [REQUEST]: .npmrc
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.141Z - [REQUEST]: 
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.148Z - Time taken for 'hash changed files from watcher' 0.17325000000164437ms
+Time for 'nx/core/package-json:createNodes' 0.32280699999864737
+Time for 'nx/core/project-json:createNodes' 0.4655739999998332
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 5.600635000000693
+Time for '@nx/eslint/plugin:createNodes' 29.555843000000095
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.183Z - Time taken for 'build-project-configs' 32.64831199999935ms
+Time for 'build typescript dependencies' 0.017920000000231084
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.197Z - Time taken for 'total execution time for createProjectGraph()' 17.215360000000146ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:21.820Z - [NX-CONSOLE]: Successfully pulled latest Nx to /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/tmp-29293-opLzD19nES31
+[NX v22.2.5 Daemon Server] - 2025-12-16T12:37:22.681Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: Cursor
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:23.486Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:35.906Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:35.906Z - [WATCHER]: Processing file changes in outputs
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.108Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.108Z - [REQUEST]: .npmrc,package.json
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.108Z - [REQUEST]: 
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.124Z - Time taken for 'hash changed files from watcher' 0.27456399999937275ms
+Time for 'nx/core/package-json:createNodes' 0.4048140000013518
+Time for 'nx/core/project-json:createNodes' 0.49746700000105193
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 6.430144999998447
+Time for '@nx/eslint/plugin:createNodes' 10.497293000000354
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.142Z - Time taken for 'build-project-configs' 16.23906800000259ms
+Time for 'build typescript dependencies' 0.01869500000248081
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:36.157Z - Time taken for 'total execution time for createProjectGraph()' 17.49443699999756ms
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:51.677Z - [WATCHER]: Processing file changes in outputs
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:51.678Z - [WATCHER]: package.json was modified
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:52.008Z - [WATCHER]: Processing file changes in outputs
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:52.008Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (sources)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:52.008Z - [WATCHER]: Stopping the watcher for /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa (outputs)
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:52.010Z - [NX-CONSOLE]: Cleaning up latest Nx installation from /private/var/folders/cl/1jb6pq1175df03404f6pjq5h0000gp/T/tmp-29293-opLzD19nES31
+[NX v22.2.3 Daemon Server] - 2025-12-16T12:37:52.011Z - Server stopped because: "LOCK_FILES_CHANGED"

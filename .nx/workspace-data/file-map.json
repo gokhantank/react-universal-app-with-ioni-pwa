@@ -1,0 +1,260 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.2.3",
+  "pathMappings": {
+    "@heelix-workspace/shared": [
+      "libs/shared/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    }
+  ],
+  "fileMap": {
+    "projectFileMap": {
+      "web": [
+        {
+          "file": "apps/web/index.html",
+          "hash": "7801626476311625242"
+        },
+        {
+          "file": "apps/web/project.json",
+          "hash": "13140307493546476187"
+        },
+        {
+          "file": "apps/web/public/assets/logo.svg",
+          "hash": "14111473249830760609"
+        },
+        {
+          "file": "apps/web/src/app/App.css",
+          "hash": "7969403116264572118"
+        },
+        {
+          "file": "apps/web/src/app/App.tsx",
+          "hash": "5695695882378469209",
+          "deps": [
+            "npm:react",
+            "npm:react-router"
+          ]
+        },
+        {
+          "file": "apps/web/src/app/ErrorBoundary.css",
+          "hash": "9105046086045784663"
+        },
+        {
+          "file": "apps/web/src/app/ErrorBoundary.tsx",
+          "hash": "9282860341257351956",
+          "deps": [
+            "npm:react",
+            "npm:react-router"
+          ]
+        },
+        {
+          "file": "apps/web/src/app/Layout.tsx",
+          "hash": "13683518146178680538",
+          "deps": [
+            "npm:react",
+            "npm:react-router",
+            "shared"
+          ]
+        },
+        {
+          "file": "apps/web/src/app/pages/Dashboard.css",
+          "hash": "2218572535694142051"
+        },
+        {
+          "file": "apps/web/src/app/pages/Dashboard.tsx",
+          "hash": "17136556254631587677",
+          "deps": [
+            "npm:react",
+            "shared"
+          ]
+        },
+        {
+          "file": "apps/web/src/app/pages/FactorAnalysis.css",
+          "hash": "2120533442864726051"
+        },
+        {
+          "file": "apps/web/src/app/pages/FactorAnalysis.tsx",
+          "hash": "13858834706009980604",
+          "deps": [
+            "npm:react",
+            "shared"
+          ]
+        },
+        {
+          "file": "apps/web/src/main.tsx",
+          "hash": "6312340238859562291",
+          "deps": [
+            "npm:react",
+            "npm:react-dom",
+            "npm:@ionic/react"
+          ]
+        },
+        {
+          "file": "apps/web/src/styles.css",
+          "hash": "1846759152485010629"
+        },
+        {
+          "file": "apps/web/tsconfig.app.json",
+          "hash": "18317366111594040815"
+        },
+        {
+          "file": "apps/web/tsconfig.json",
+          "hash": "9264059211629358999"
+        },
+        {
+          "file": "apps/web/tsconfig.spec.json",
+          "hash": "14633124728548627065"
+        },
+        {
+          "file": "apps/web/vite.config.ts",
+          "hash": "13425964301812532405",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react",
+            "npm:vite-plugin-pwa",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "shared": [
+        {
+          "file": "libs/shared/project.json",
+          "hash": "2086517127854537329"
+        },
+        {
+          "file": "libs/shared/src/components/Card.css",
+          "hash": "6926123235510793409"
+        },
+        {
+          "file": "libs/shared/src/components/Card.tsx",
+          "hash": "3258090282746128354",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "libs/shared/src/components/Gauge.css",
+          "hash": "15660874467223368271"
+        },
+        {
+          "file": "libs/shared/src/components/Gauge.tsx",
+          "hash": "10779755500736503859",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "libs/shared/src/components/Navigation.css",
+          "hash": "10694027693811884392"
+        },
+        {
+          "file": "libs/shared/src/components/Navigation.tsx",
+          "hash": "14723252156452362687",
+          "deps": [
+            "npm:react",
+            "npm:react-router"
+          ]
+        },
+        {
+          "file": "libs/shared/src/components/ProgressBar.css",
+          "hash": "12625760438586436988"
+        },
+        {
+          "file": "libs/shared/src/components/ProgressBar.tsx",
+          "hash": "12149652979729552223",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "libs/shared/src/components/TakeActionModal.css",
+          "hash": "5149925221826853006"
+        },
+        {
+          "file": "libs/shared/src/components/TakeActionModal.tsx",
+          "hash": "7736359972847812579",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "libs/shared/src/index.ts",
+          "hash": "11849154164717266838"
+        },
+        {
+          "file": "libs/shared/src/utils/team-data.ts",
+          "hash": "3972638565102942545"
+        },
+        {
+          "file": "libs/shared/tsconfig.json",
+          "hash": "1810709904556566243"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.json",
+        "hash": "2079169466193702664"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16239469001973553937"
+      },
+      {
+        "file": ".npmrc",
+        "hash": "9844657625556655191"
+      },
+      {
+        "file": "CAPACITOR_SETUP.md",
+        "hash": "17492211736138121301"
+      },
+      {
+        "file": "MOBILE_QUICKSTART.md",
+        "hash": "10230861955571360781"
+      },
+      {
+        "file": "README.md",
+        "hash": "13748955542246704947"
+      },
+      {
+        "file": "capacitor.config.ts",
+        "hash": "11837246420384148728"
+      },
+      {
+        "file": "eslint.base.config.mjs",
+        "hash": "17909516565770155564"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "10268689682908020610"
+      },
+      {
+        "file": "nx.json",
+        "hash": "9520458329545811709"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6503668518577119638"
+      },
+      {
+        "file": "package.json",
+        "hash": "1415930106078667401"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "11269986091844963280"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "17711596167089333250"
+      }
+    ]
+  },
+  "externalNodesHash": "9743795505416900544"
+}

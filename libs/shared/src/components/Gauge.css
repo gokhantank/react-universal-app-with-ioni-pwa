@@ -1,0 +1,58 @@
+.gauge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.gauge__container {
+  position: relative;
+  width: 180px;
+  height: 90px;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
+  border: 25px solid #e0e0e0;
+  border-bottom: 0;
+  overflow: hidden;
+}
+
+.gauge__needle {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 1px;
+  height: 60px;
+  background-color: #000000;
+  transform-origin: bottom;
+  transform: translateX(-50%) rotate(var(--rotation, 0deg));
+}
+
+.gauge__score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -32px;
+}
+
+.gauge__score-value {
+  font-size: 48px;
+  font-weight: 700;
+  color: #000000;
+}
+
+.gauge__score-label {
+  font-size: 10px;
+  font-weight: 700;
+  color: #999999;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.gauge__emoji {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-top: 8px;
+  font-size: 20px;
+}
+

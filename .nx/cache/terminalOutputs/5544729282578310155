@@ -1,0 +1,36 @@
+vite v6.4.1 building for production...
+
+(!) outDir /Users/gokhan.tank/Documents/dev/heelix-react-app-with-ionic-pwa/dist/apps/web is not inside project root and will not be emptied.
+Use --emptyOutDir to override.
+
+transforming...
+✓ 233 modules transformed.
+rendering chunks...
+computing gzip size...
+../../dist/apps/web/registerSW.js                         0.13 kB
+../../dist/apps/web/manifest.webmanifest                  1.05 kB
+../../dist/apps/web/index.html                            1.11 kB │ gzip:   0.53 kB
+../../dist/apps/web/assets/FactorAnalysis-BA_wPxIT.css    2.18 kB │ gzip:   0.60 kB
+../../dist/apps/web/assets/Dashboard-BlyV1uBz.css         4.00 kB │ gzip:   1.01 kB
+../../dist/apps/web/assets/index-B0VPaX82.css            46.89 kB │ gzip:   7.61 kB
+../../dist/apps/web/assets/status-tap-DK-rHtqL.js         0.51 kB │ gzip:   0.36 kB
+../../dist/apps/web/assets/index8-mTYQw86U.js             0.53 kB │ gzip:   0.37 kB
+../../dist/apps/web/assets/focus-visible-supuXXMI.js      0.99 kB │ gzip:   0.51 kB
+../../dist/apps/web/assets/md.transition-BKkGb2mV.js      1.02 kB │ gzip:   0.56 kB
+../../dist/apps/web/assets/keyboard-BEOEKxG6.js           1.28 kB │ gzip:   0.65 kB
+../../dist/apps/web/assets/index7-BafRgGd2.js             1.63 kB │ gzip:   0.84 kB
+../../dist/apps/web/assets/FactorAnalysis-BwAQvWQA.js     1.83 kB │ gzip:   0.65 kB
+../../dist/apps/web/assets/team-data-DpiXRmlN.js          2.26 kB │ gzip:   0.60 kB
+../../dist/apps/web/assets/input-shims-D2_J_9rP.js        5.00 kB │ gzip:   2.15 kB
+../../dist/apps/web/assets/swipe-back-C8YlYrYG.js         6.81 kB │ gzip:   2.74 kB
+../../dist/apps/web/assets/Dashboard-B25is07b.js          7.34 kB │ gzip:   2.02 kB
+../../dist/apps/web/assets/ios.transition-7bGy2_E0.js    10.54 kB │ gzip:   3.09 kB
+../../dist/apps/web/assets/index-BI_fKif5.js            386.23 kB │ gzip: 121.23 kB
+✓ built in 2.45s
+
+PWA v0.21.2
+mode      generateSW
+precache  20 entries (469.31 KiB)
+files generated
+  ../../dist/apps/web/sw.js
+  ../../dist/apps/web/workbox-8c29f6e4.js
